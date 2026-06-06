@@ -2,7 +2,7 @@
 
 Local food database CLI for AI-assisted nutrition tracking.
 
-Built by [@meimakes](https://x.com/meimakes)
+Built by [@madebydia](https://x.com/madebydia)
 
 
 ## Problem
